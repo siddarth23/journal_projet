@@ -1,2 +1,2 @@
 # journal_projet
-journal submission portal for college
+Research paper submission portal for college
